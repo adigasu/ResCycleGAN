@@ -4,7 +4,7 @@ Fundus imaging with a Smartphone camera (SC) is a cost-effective solution for th
 
 Download Paper: [[ResCycleGAN]](https://web2py.iiit.ac.in/research_centres/publications/download/inproceedings.pdf.b1aa1149db0fc5d4.53756b6573685f4953424931395f303330352e706466.pdf)
 
-Overview of proposed ResCycleGAN architecture
+Overview of proposed ResCycleGAN architecture:
 
 <img src = 'Figures/rescyclegan.png' height = '300px'>
 
