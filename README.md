@@ -43,6 +43,7 @@ Results will be stored inside ./images
 ### Citation
 If you find this code useful for your research, please cite:
 
+```
 @inproceedings{adiga2019matching,
   title={Matching The Characteristics Of Fundus And Smartphone Camera Images},
   author={Adiga, V Sukesh and Sivaswamy, Jayanthi},
@@ -51,6 +52,7 @@ If you find this code useful for your research, please cite:
   year={2019},
   organization={IEEE}
 }
+```
 
 ##### License
 This project is licensed under the terms of the MIT license.
