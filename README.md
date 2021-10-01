@@ -54,5 +54,9 @@ If you find this code useful for your research, please cite:
 }
 ```
 
+### References
+- Pytorch MS-SSIM [[code]](https://github.com/jorge-pessoa/pytorch-msssim)
+- Pytorch CycleGAN [[code]](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
+
 ##### License
 This project is licensed under the terms of the MIT license.
