@@ -57,7 +57,10 @@ If you find this code useful for your research, please cite:
 #### References
 - Pytorch MS-SSIM [[code]](https://github.com/jorge-pessoa/pytorch-msssim)
 - Pytorch CycleGAN [[code]](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
+- GAN Zoo [[link1]](https://github.com/hindupuravinash/the-gan-zoo) [[link2]](https://github.com/znxlwm/pytorch-generative-model-collections)
 - DSLR-Quality Photos on Mobile Devices DPED [[code]](https://github.com/aiff22/DPED#dslr-quality-photos-on-mobile-devices-with-deep-convolutional-networks)
+- Image Denoising [[link]](https://github.com/wenbihan/reproducible-image-denoising-state-of-the-art)
+- Unet Family [[link]] (https://github.com/ShawnBIT/UNet-family)
 
 #### Any questions?
 ```
