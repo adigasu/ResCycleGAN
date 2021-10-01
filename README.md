@@ -54,9 +54,15 @@ If you find this code useful for your research, please cite:
 }
 ```
 
-### References
+#### References
 - Pytorch MS-SSIM [[code]](https://github.com/jorge-pessoa/pytorch-msssim)
 - Pytorch CycleGAN [[code]](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
+- DSLR-Quality Photos on Mobile Devices DPED [[code]](https://github.com/aiff22/DPED#dslr-quality-photos-on-mobile-devices-with-deep-convolutional-networks)
 
-##### License
+#### Any questions?
+```
+For more informations, please contact Sukesh Adiga (sukesh.adiga@gmail.com).
+```
+
+#### License
 This project is licensed under the terms of the MIT license.
