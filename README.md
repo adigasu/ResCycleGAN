@@ -1,12 +1,11 @@
-# ResCycleGAN - Matching the Characteristics of Fundus and Smartphone Camera Images
+# <p align="center"> _Matching the Characteristics of Fundus and Smartphone Camera Images_
+## <p align="center"> _ISBI 2019_ [[ResCycleGAN]](https://web2py.iiit.ac.in/research_centres/publications/download/inproceedings.pdf.b1aa1149db0fc5d4.53756b6573685f4953424931395f303330352e706466.pdf)
 
 Fundus imaging with a Smartphone camera (SC) is a cost-effective solution for the assessment of retina. However, imaging at high magnification and low light levels, results in loss of details, uneven illumination and noise especially in the peripheral region. We address these problems by matching the characteristics of images from SC to those from a regular fundus camera (FC) with an architecture called **ResCycleGAN**. It is based on the CycleGAN with two significant changes: A residual connection is introduced to aid learning only the correction required; A structure similarity based loss function is used to improve the clarity of anatomical structures and pathologies. The proposed method can handle variations seen in normal and pathological images, acquired even without mydriasis, which is attractive in screening. The method produces consistently balanced results, outperforms CycleGAN both qualitatively and quantitatively, and has more pleasing results.
 
-Download Paper: [[ResCycleGAN]](https://web2py.iiit.ac.in/research_centres/publications/download/inproceedings.pdf.b1aa1149db0fc5d4.53756b6573685f4953424931395f303330352e706466.pdf)
+<p align="center"> Overview of proposed ResCycleGAN architecture:
 
-Overview of proposed ResCycleGAN architecture:
-
-<img src = 'Figures/rescyclegan.png' height = '300px'>
+<p align="center"> <img src = 'Figures/rescyclegan.png' height = '350px'>
 
 ### Dependencies
 This code depends on the following libraries:
